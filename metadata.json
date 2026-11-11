@@ -1,0 +1,6 @@
+{
+  "name": "E-Learning SMA PGRI 4 Gandrungmangu",
+  "description": "Sistem Pembelajaran Digital Terintegrasi Kurikulum Merdeka SMA PGRI 4 Gandrungmangu dengan sinkronisasi basis data antar role Admin, Guru, dan Siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
