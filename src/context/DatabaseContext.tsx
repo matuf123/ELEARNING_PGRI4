@@ -142,7 +142,7 @@ interface DatabaseContextType {
 
 const DatabaseContext = createContext<DatabaseContextType | undefined>(undefined);
 
-const STORAGE_PREFIX = 'smapgri4_elearning_v6_';
+const STORAGE_PREFIX = 'smapgri4_elearning_v7_';
 
 function loadFromStorage<T>(key: string, fallback: T): T {
   try {

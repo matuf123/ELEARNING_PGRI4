@@ -234,7 +234,7 @@ export const StudentReportCardView: React.FC = () => {
         {/* Kop Surat Resmi SMA PGRI 4 Gandrungmangu */}
         <div className="flex items-center justify-between border-b-2 border-slate-900 pb-4 gap-4">
           <img
-            src="/src/assets/images/school_crest_pgri_1794327906967.jpg"
+            src="/images/school_crest_pgri_1794327906967.jpg"
             alt="Logo Sekolah"
             className="w-20 h-20 object-contain rounded-full border border-slate-300"
             referrerPolicy="no-referrer"

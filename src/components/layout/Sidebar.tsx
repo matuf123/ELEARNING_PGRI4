@@ -350,7 +350,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
 
           <div className="flex items-center gap-3">
             <img
-              src="/src/assets/images/school_crest_pgri_1794327906967.jpg"
+              src="/images/school_crest_pgri_1794327906967.jpg"
               alt="Logo SMA PGRI 4"
               className="w-11 h-11 rounded-full border-2 border-amber-400/80 shadow-md object-cover bg-white shrink-0"
               referrerPolicy="no-referrer"

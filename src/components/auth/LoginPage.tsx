@@ -91,7 +91,7 @@ export const LoginPage: React.FC = () => {
       <header className="border-b border-white/10 bg-slate-950/80 backdrop-blur-md py-3 px-4 sm:px-8 flex items-center justify-between text-xs">
         <div className="flex items-center gap-3">
           <img
-            src="/src/assets/images/school_crest_pgri_1794327906967.jpg"
+            src="/images/school_crest_pgri_1794327906967.jpg"
             alt="Logo PGRI"
             className="w-8 h-8 rounded-full border border-amber-400/80 object-cover bg-white"
             referrerPolicy="no-referrer"

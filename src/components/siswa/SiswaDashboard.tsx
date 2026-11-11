@@ -69,7 +69,7 @@ export const SiswaDashboard: React.FC<SiswaDashboardProps> = ({ onNavigate }) =>
       {/* Student Welcome Banner with Library/Study Background */}
       <div className="relative rounded-2xl overflow-hidden border border-slate-200 bg-slate-900 text-white shadow-sm">
         <img
-          src="/src/assets/images/digital_library_study_1794327907820.jpg"
+          src="/images/digital_library_study_1794327907820.jpg"
           alt="Siswa Belajar di Perpustakaan"
           className="absolute inset-0 w-full h-full object-cover opacity-20"
           referrerPolicy="no-referrer"

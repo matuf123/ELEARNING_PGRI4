@@ -218,6 +218,17 @@ export interface SystemLog {
   details: string;
 }
 
+export interface EBookChapter {
+  id: string;
+  chapterNumber: number;
+  title: string;
+  subtopics: string[];
+  excerpt: string;
+  summary: string;
+  keyConcepts: string[];
+  pageRange: string;
+}
+
 export interface EBook {
   id: string;
   title: string;
@@ -231,6 +242,10 @@ export interface EBook {
   downloadCount: number;
   description: string;
   isAvailable: boolean;
+  onlineReaderUrl?: string; // Direct link to official Kemendikbudristek Buku Kemdikbud / open access eBook
+  downloadUrl?: string;
+  coverColor?: string;
+  chapters?: EBookChapter[];
 }
 
 export interface ChatMessage {

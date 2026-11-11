@@ -98,7 +98,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, onSelectTab }) => {
           {/* Zone 1: Single Brand element */}
           <div className="flex items-center gap-3 shrink-0">
             <img
-              src="/src/assets/images/school_crest_pgri_1794327906967.jpg"
+              src="/images/school_crest_pgri_1794327906967.jpg"
               alt="Logo SMA PGRI 4 Gandrungmangu"
               className="w-10 h-10 object-contain rounded-full shadow-xs border border-slate-200"
               referrerPolicy="no-referrer"

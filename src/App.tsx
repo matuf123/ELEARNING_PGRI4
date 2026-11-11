@@ -394,7 +394,7 @@ const AppContent: React.FC = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-3">
               <img
-                src="/src/assets/images/school_crest_pgri_1794327906967.jpg"
+                src="/images/school_crest_pgri_1794327906967.jpg"
                 alt="Logo PGRI"
                 className="w-8 h-8 rounded-full border border-slate-200 object-cover"
                 referrerPolicy="no-referrer"

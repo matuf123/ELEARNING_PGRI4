@@ -144,7 +144,7 @@ export const AdminPengaturanView: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-1 bg-white p-6 rounded-xl border border-slate-200 shadow-xs flex flex-col items-center text-center">
             <img
-              src="/src/assets/images/school_crest_pgri_1794327906967.jpg"
+              src="/images/school_crest_pgri_1794327906967.jpg"
               alt="Logo PGRI Gandrungmangu"
               className="w-24 h-24 rounded-full border-2 border-slate-200 shadow-xs mb-4"
               referrerPolicy="no-referrer"

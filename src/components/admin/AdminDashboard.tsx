@@ -51,7 +51,7 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({ onNavigate }) =>
       {/* Top Banner with Campus Image & Active Year Control */}
       <div className="relative rounded-2xl overflow-hidden border border-slate-200 bg-slate-900 text-white shadow-sm">
         <img
-          src="/src/assets/images/sma_pgri_campus_1794327907338.jpg"
+          src="/images/sma_pgri_campus_1794327907338.jpg"
           alt="Gedung SMA PGRI 4 Gandrungmangu"
           className="absolute inset-0 w-full h-full object-cover opacity-25"
           referrerPolicy="no-referrer"
